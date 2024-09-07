@@ -1,0 +1,34 @@
+[
+    {
+        "hostname": "emias.info",
+        "ip": "82.202.189.136"
+    },
+    {
+        "hostname": "emias.ru",
+        "ip": "82.202.189.136"
+    },
+    {
+        "hostname": "gosuslugi.ru",
+        "ip": "213.59.254.7"
+    },
+    {
+        "hostname": "nalog.ru",
+        "ip": "37.220.164.100"
+    },
+    {
+        "hostname": "www.gosuslugi.ru",
+        "ip": "109.207.8.97"
+    },
+    {
+        "hostname": "www.pochta.ru",
+        "ip": "212.164.140.129"
+    },
+    {
+        "hostname": "avito.ru",
+        "ip": "176.114.122.24"
+    },
+    {
+        "hostname": "rzd.ru",
+        "ip": "212.164.138.122"
+    }
+]
